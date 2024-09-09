@@ -16,8 +16,11 @@
 - **Data Visualization & Productivity Tools:** Jupyter, MS Excel (V/H/XLookups, Pivot Tables, What-If Analysis, VBA \& Macros), SAP, SharePoint, SQL, Tableau
 
 ### 🚀 Projects
-- Initial Public Offerings (IPOs) Analysis using Kmeans Clustering
-- Algorithmic Trading Simulation & Comparison
+- [Initial Public Offerings (IPOs) Analysis using Kmeans Clustering](https://github.com/Karthirajprabhakar/IPO-Analysis)
+- [Algorithmic Trading Simulation & Comparison](https://github.com/Karthirajprabhakar/Algorithmic-Trading-Simulation)
+- [Equity Research Report - Tesla Motors](https://github.com/Karthirajprabhakar/Tesla-Equity-Research)
+- [Fairness Opinion - Tapestry & Capri Holdings Acquisition](https://github.com/Karthirajprabhakar/Fairness-Opinion---Tapestry-Capri-Holdings-M-A-Deal)
+- [Leveraged Buyout - G-III Apparel Group](https://github.com/Karthirajprabhakar/Leveraged-Buyout---G-III-Apparel-Group)
 
 ### 🌱 I'm currently learning
 - Gaining proficiency in BI-related tools
@@ -28,4 +31,3 @@
 
 ### ⚡ Fun fact
 I’m absolutely crazy about music and the art of songwriting, and I love exploring all kinds of genres. I also enjoy creating hyper-realistic portraits in my spare time!
-
